@@ -1,0 +1,32 @@
+
+<script type="text/javascript">
+ 
+“rabbit”: [
+        {“ name” : “Monya”,
+         “price” : 20$},
+
+        {“ name” : “Boni and Claid”, 
+         “price” : 45$},
+
+         {“ name” : “Sonya”, 
+          “price” : 20$},
+]
+
+“Monya”: [
+        {
+         “activity” : “10km/day” , 
+         “color” : “gray”, 
+         “age” : 2,
+         “price” : 20$},
+]
+
+{"главная": {
+ "всплывающий": {
+ "пункт меню": [
+ {"value": "Main", "onclick": "Open()"},
+ {"value": "Catalog", "onclick": "Open()"},
+ {"value": "O crolicah", "onclick": "Open()"}
+ ]
+ }
+
+</script>
